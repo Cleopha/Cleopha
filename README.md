@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleopha)](https://github.com/Cleopha/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=cleopha)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=cleopha&layout=compact)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
