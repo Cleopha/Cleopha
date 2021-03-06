@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 
 ![Cleopha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleopha&theme=midnight-purple&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleopha&layout=compact)](https://github.com/Cleopha/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cleopha)](https://github.com/Cleopha/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
