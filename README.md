@@ -106,5 +106,5 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cleopha&show_icons=true&theme=midnight-purple&layout=compact" /></p>
 
 <p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cleopha&theme=midnight-purple&layout=compact" alt="Cleopha">
-<img align="right" alt="Coding" width="48%" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<img align="right" alt="Coding" width="42%" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleopha&show_icons=true&theme=midnight-purple&layout=compact" alt="Cleopha" /> </p>
