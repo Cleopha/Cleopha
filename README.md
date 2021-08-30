@@ -19,6 +19,13 @@
  </a>
 </p>
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cleopha&show_icons=true&theme=midnight-purple&layout=compact" width="49%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cleopha&theme=midnight-purple&layout=compact" width="49%" /> 
+</p>
+
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -99,12 +106,3 @@
 
 <!----:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## ⚡ Github Stats
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cleopha&show_icons=true&theme=midnight-purple&layout=compact" /></p>
-
-<p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cleopha&theme=midnight-purple&layout=compact" alt="Cleopha">
-<img align="right" alt="Coding" width="42%" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
-<img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleopha&show_icons=true&theme=midnight-purple&layout=compact" alt="Cleopha" /> </p>
