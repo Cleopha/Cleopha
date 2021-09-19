@@ -8,6 +8,7 @@
     Currently a student at Epitech and Head of the Hardware / IoT at <a href=https://github.com/PoCInnovation>PoC Innovation </a>
 </p>
 
+
 <p align='center'>
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=Cleopha&style=flat-square"/></code>
@@ -20,11 +21,17 @@
 </p>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cleopha&show_icons=true&theme=midnight-purple&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cleopha&show_icons=true&theme=midnight-purple&layout=compact&count_private=true&include_all_commits=true" width="49%" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cleopha&theme=midnight-purple&layout=compact" width="49%" /> 
 </p>
 
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleopha&layout=compact&theme=midnight-purple&langs_count=10&hide=shell,makefile&orgs=PoCInnovation&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" />
+
+</p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 <p align='center'>
   💻 My workspace<br/><br/>
