@@ -31,7 +31,6 @@
 
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 <p align='center'>
   💻 My workspace<br/><br/>
