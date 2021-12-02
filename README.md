@@ -5,7 +5,7 @@
 **Cleopha/Cleopha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align='center'>
-    Currently a student at Epitech and Head of the Hardware / IoT at <a href=https://github.com/PoCInnovation>PoC Innovation </a>
+    Currently a student at Epitech and Head of Hardware / IoT at <a href=https://github.com/PoCInnovation>PoC Innovation </a>
 </p>
 
 
